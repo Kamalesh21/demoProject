@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+<parameter name="URL" value="https://jqueryui.com/"/>
+  <test name="ChromeTest" verbose="5">
+    <classes>
+      <class name="newSele.actionsCl"/>
+    </classes>
+    </test>
+     <!-- Test -->
+</suite> <!-- Suite -->
