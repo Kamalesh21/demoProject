@@ -15,7 +15,7 @@ import org.testng.annotations.Test;
 
 
 import org.openqa.selenium.Keys;
-public class actionsCl {
+public class MyTest {
 public WebDriver driver;
 public Actions AU;
 @Parameters({"URL"})
