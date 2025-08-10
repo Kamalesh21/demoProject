@@ -3,7 +3,7 @@
 <parameter name="URL" value="https://jqueryui.com/"/>
   <test name="ChromeTest" verbose="5">
     <classes>
-      <class name="newSele.MyTest"/>
+      <class name="MyTest"/>
     </classes>
     </test>
      <!-- Test -->
